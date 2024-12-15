@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Curs2": {
+      "commandName": "Project",
+      "hotReloadEnabled": true
+    }
+  }
+}
